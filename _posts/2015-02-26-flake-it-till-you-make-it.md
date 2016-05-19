@@ -13,6 +13,7 @@ To logon to the instances, please use the below credentials.
 - Password: password2016
 
 ### Personal websites
+
 | Participant         | Institution                                                       | IP address                               | Services                                                                                                                           |
 |---------------------|-------------------------------------------------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Joel, Graber        | The Jackson Laboratory                                            | ec2-52-23-187-84.compute-1.amazonaws.com | [Terminal](http://ec2-52-23-187-84.compute-1.amazonaws.com:57575), [RStudio](http://ec2-52-23-187-84.compute-1.amazonaws.com:8787) |
