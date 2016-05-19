@@ -14,10 +14,10 @@ baseurl: "/workshop"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: Workshop
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: The program is funded by the NIH Big Data to Knowledge (BD2K) Initiative. 
 
 # --- Navigation bar options --- #
 
@@ -30,30 +30,21 @@ navbar-links:
   Home: ""
   Resources:
     - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
+    - Galaxy: "featured-users"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
-  email: true
-  twitter: true
-  github: true
+  facebook: false
+  email: false
+  twitter: false
+  github: false
   linkedin: false
   stackoverflow: false
 
@@ -65,9 +56,6 @@ url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-j
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
