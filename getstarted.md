@@ -45,7 +45,7 @@ On Mac the shell is available through Terminal
 	`Applications -> Utilities -> Terminal`
 
 Simply search for 'Terminal' and/or look for the terminal icon.<br> 
-![terminal icon](https://github.com/hbc/dc_2016_04/blob/master/img/terminal.png)
+![terminal icon](../dc_2016_04/blob/master/img/terminal.png)
 
 1. Open the terminal and type the following command substituting 'ip_address' for the IP address your instructor will provide. *Be sure to pay attention to capitalization and spaces*
 
@@ -65,11 +65,11 @@ Simply search for 'Terminal' and/or look for the terminal icon.<br>
 For Windows, you will have downloaded a separate program called PuTTy to allow you to use the shell. 
 
 1. Open PuTTY; In the 'Host Name (or IP address)' section paste in the IP address provided by your instructor (or the ip address of an instance you have provisioned yourself). *Keep the default selection 'SSH' and Port (22)*. <br>
-![Putty Image](https://github.com/hbc/dc_2016_04/blob/master/img/putty_screenshot_1.png)
+![Putty Image](../dc_2016_04/blob/master/img/putty_screenshot_1.png)
 2. Click 'Open' and you will be presented with a security warning. Select 'Yes' to continue to connect. <br>
-![Putty security screen](https://github.com/hbc/dc_2016_04/blob/master/img/putty_screenshot_2.png)
+![Putty security screen](../dc_2016_04/blob/master/img/putty_screenshot_2.png)
 3. In the final step, you will be asked to provide a login and password. **Note:** When typing your password, it is common in Unix/Linux not see see any asterisks (e.g. ****) or moving cursors. Just continue typing.<br> 
-![Putty login](https://github.com/hbc/dc_2016_04/raw/master/img/putty_screenshot_3.png)
+![Putty login](../dc_2016_04/blob/master/img/putty_screenshot_3.png)
 4. You should now be connected!
 
 
