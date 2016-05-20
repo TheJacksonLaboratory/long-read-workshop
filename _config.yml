@@ -29,7 +29,8 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   Resources:
-    - Getting started: "getstarted"
+    - Getting Started: "getstarted"
+    - User Instances: "user-instances"
     - Galaxy: "featured-users"
 
 # --- Footer options --- #
