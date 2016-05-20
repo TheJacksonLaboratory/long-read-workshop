@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Featured users
+title: Instance Information
 ---
 
 # Setting up
 
-We have setup a remote computer(instances) on Amazon Web Services prior to this training. We will be analysing our data on these instances. All instances are identical with the same working environment. You should be able to connect from PC, Mac or Linux. Please see below for the instructions.
+A remote computer (instance) on Amazon Web Services has been set up for use in training for each user. All instances are identical with the same working environment. You should be able to connect from PC, Mac or Linux. Please see below for the instructions.
 
 **User Credentials**
 To logon to the instances, please use the below credentials. 
 - Username: bguser
-- Password: password2016
+- Password: 
 
 ### Personal websites
 
