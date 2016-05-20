@@ -111,17 +111,17 @@ user@ip-172-31-62-209 ~ $
 ```
 
 ### Resources on cloud computing
-* Amazon EC2: http://aws.amazon.com/ec2/
+* Amazon EC2: [http://aws.amazon.com/ec2/](http://aws.amazon.com/ec2/)
 
 Learn more about cloud computing in bioinformatics
 Fusaro VA, Patil P, Gafni E, Wall DP, Tonellato PJ (2011) Biomedical Cloud Computing With Amazon Web Services. PLoS Comput Biol 7(8): e1002147. doi: 10.1371/journal.pcbi.1002147
 
 
 ### Resources on the shell
-* http://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/ 
-* https://github.com/swcarpentry/boot-camps/blob/master/shell/shell_cheatsheet.md
+* [http://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/](http://fosswire.com/post/2007/08/unixlinux-command-cheat-sheet/ ) 
+* [https://github.com/swcarpentry/boot-camps/blob/master/shell/shell_cheatsheet.md](https://github.com/swcarpentry/boot-camps/blob/master/shell/shell_cheatsheet.md)
 * [Explain shell](http://explainshell.com )- a web site where you can see what the different components of a shell command are doing.
-* http://www.commandlinefu.com
+* [http://www.commandlinefu.com](http://www.commandlinefu.com)
 
 
 
