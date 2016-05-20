@@ -2,31 +2,29 @@
 layout: page
 title: Getting started
 subtitle: JAX Big Genomic Data Training for Professors 
-bigimg: https://www.jax.org/~/media/jaxweb/images/news-and-insights/articles/big-data-world-992.jpg?la=en
+bigimg: /img/IMG_3684.jpeg
 ---
 
-**JAX BIG GENOMIC DATA TRAINING FOR PROFESSORS - MAY 23-27** 
+**JAX Big Genomic Data Training for Professors  - May 23-27** 
 
-**Course Announcement Page**  [Course Announcement Page](https://www.jax.org/news-and-insights/2016/january/jax-offers-big-genomic-training-for-professors-course).
+Course Announcement Page --  [Course Announcement Page](https://www.jax.org/news-and-insights/2016/january/jax-offers-big-genomic-training-for-professors-course).
 
 <br/>
 
-# Useful links and tips to access course materials
-
 ## Goals
-* Be able to connect to cloud instance in aws
+* Connect to a cloud instance in aws
 * Use ```ssh``` for connecting to remote machine
 * Check the available resources and file system on the remote machine
 
-##Setting up
+### Setting up
 
-These instructions will walk you though steps needed to connect to a remote machine "an instance" on **Amazon's Elastic Compute Cloud - EC2 instance**.
+These instructions will walk you through steps needed to connect to a remote machine "an instance" on **Amazon's Elastic Compute Cloud - EC2 instance**.
 
-### Connecting to a remote computer using Amazon EC2
+#### Connecting to a remote computer on Amazon EC2
 
 For this workshop, the instructors have already launched the remote machines for use. Please use the instance assigned to you. Each instance has an IP address listed which is needed to connect to that machine directly. You will need your user id and password to login securely to the machine.
 
-### The Shell
+#### The Shell
 The *shell* is a program that presents a command line interface which allows you to control your computer using commands entered with a keyboard instead of controlling graphical user interfaces (GUIs) with a mouse/keyboard combination. **The *shell* is an interpreter that helps translate our input into computer language.**
 
 There are many reasons to learn about the shell.
@@ -39,7 +37,7 @@ knowing how to use the shell is transformative.
 
 We will be using the shell on our laptops to connect to the cloud. **How do we access the shell?**
 
-####**Mac users**
+#### **Mac users**
 
 The shell is already available on Mac and Linux computers. 
 
@@ -60,7 +58,7 @@ Simply search for 'Terminal' and/or look for the terminal icon.<br>
 3. In the final step, you will be asked to provide a login and password. **Note:** When typing your password, it is common in Unix/Linux not see see any asterisks (e.g. ****) or moving cursors. Just continue typing.
 4. You should now be connected!
 
-####**Windows users**
+#####**Windows users**
 
 > *Prerequisites*: You must have an SSH client. There are several free options and we will use PuTTY [[Download Putty.exe](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)]
 
@@ -75,7 +73,7 @@ For Windows, you will have downloaded a separate program called PuTTy to allow y
 4. You should now be connected!
 
 
-###**Verifying your connection and environment** 
+####**Verifying your connection and environment** 
 
 When you connect, it is typical to receive a welcome screen. The Data Carpentry Amazon instances display this message upon connecting:
 
