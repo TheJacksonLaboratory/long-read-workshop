@@ -2,7 +2,7 @@
 layout: page
 title: Getting started
 subtitle: JAX Big Genomic Data Training for Professors 
-bigimg: /img/IMG_3684.jpeg
+bigimg: /img/FullSizeRender.jpeg
 ---
 
 **JAX Big Genomic Data Training for Professors  - May 23-27** 
@@ -20,11 +20,11 @@ Course Announcement Page --  [Course Announcement Page](https://www.jax.org/news
 
 These instructions will walk you through steps needed to connect to a remote machine "an instance" on **Amazon's Elastic Compute Cloud - EC2 instance**.
 
-#### Connecting to a remote computer on Amazon EC2
+### Connecting to a remote computer on Amazon EC2
 
 For this workshop, the instructors have already launched the remote machines for use. Please use the instance assigned to you. Each instance has an IP address listed which is needed to connect to that machine directly. You will need your user id and password to login securely to the machine.
 
-#### The Shell
+### The Shell
 The *shell* is a program that presents a command line interface which allows you to control your computer using commands entered with a keyboard instead of controlling graphical user interfaces (GUIs) with a mouse/keyboard combination. **The *shell* is an interpreter that helps translate our input into computer language.**
 
 There are many reasons to learn about the shell.
@@ -37,7 +37,7 @@ knowing how to use the shell is transformative.
 
 We will be using the shell on our laptops to connect to the cloud. **How do we access the shell?**
 
-#### **Mac users**
+### **Mac users**
 
 The shell is already available on Mac and Linux computers. 
 
@@ -45,7 +45,7 @@ On Mac the shell is available through Terminal
 	`Applications -> Utilities -> Terminal`
 
 Simply search for 'Terminal' and/or look for the terminal icon.<br> 
-![terminal icon](../dc_2016_04/blob/master/img/terminal.png)
+![terminal icon](../../../dc_2016_04/blob/master/img/terminal.png)
 
 1. Open the terminal and type the following command substituting 'ip_address' for the IP address your instructor will provide. *Be sure to pay attention to capitalization and spaces*
 
@@ -58,22 +58,22 @@ Simply search for 'Terminal' and/or look for the terminal icon.<br>
 3. In the final step, you will be asked to provide a login and password. **Note:** When typing your password, it is common in Unix/Linux not see see any asterisks (e.g. ****) or moving cursors. Just continue typing.
 4. You should now be connected!
 
-#####**Windows users**
+#### **Windows users**
 
 > *Prerequisites*: You must have an SSH client. There are several free options and we will use PuTTY [[Download Putty.exe](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)]
 
 For Windows, you will have downloaded a separate program called PuTTy to allow you to use the shell. 
 
 1. Open PuTTY; In the 'Host Name (or IP address)' section paste in the IP address provided by your instructor (or the ip address of an instance you have provisioned yourself). *Keep the default selection 'SSH' and Port (22)*. <br>
-![Putty Image](../dc_2016_04/blob/master/img/putty_screenshot_1.png)
+![Putty Image](../../../dc_2016_04/blob/master/img/putty_screenshot_1.png)
 2. Click 'Open' and you will be presented with a security warning. Select 'Yes' to continue to connect. <br>
-![Putty security screen](../dc_2016_04/blob/master/img/putty_screenshot_2.png)
+![Putty security screen](../../../dc_2016_04/blob/master/img/putty_screenshot_2.png)
 3. In the final step, you will be asked to provide a login and password. **Note:** When typing your password, it is common in Unix/Linux not see see any asterisks (e.g. ****) or moving cursors. Just continue typing.<br> 
-![Putty login](../dc_2016_04/blob/master/img/putty_screenshot_3.png)
+![Putty login](../../../dc_2016_04/blob/master/img/putty_screenshot_3.png)
 4. You should now be connected!
 
 
-####**Verifying your connection and environment** 
+### **Verifying your connection and environment** 
 
 When you connect, it is typical to receive a welcome screen. The Data Carpentry Amazon instances display this message upon connecting:
 
