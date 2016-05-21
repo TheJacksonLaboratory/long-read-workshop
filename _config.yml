@@ -31,7 +31,7 @@ navbar-links:
   Resources:
     - Getting Started: "getstarted"
     - User Instances: "user-instances"
-    - Galaxy: "http://ec2-52-7-85-172.compute-1.amazonaws.com/"
+    - Galaxy: <a href="http://ec2-52-7-85-172.compute-1.amazonaws.com/" target="_blank">Galaxy</a>
     - GenePattern: "http://ec2-52-73-205-115.compute-1.amazonaws.com:8080/gp/"
 # --- Footer options --- #
 
