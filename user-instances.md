@@ -11,7 +11,7 @@ A remote computer (instance) on Amazon Web Services has been set up for use in t
 To logon to the instances, please use the below credentials. 
 
 - Username: bguser
-- Password: 
+- Password: password2016
 
 ### User Instances
 
