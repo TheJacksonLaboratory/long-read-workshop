@@ -15,6 +15,7 @@ To logon to the instances, please use the below credentials.
 
 ### User Instances
 
+
 | Participant         | Institution                                                       | IP address                                        | Services                                                                                                                                             |
 |---------------------|-------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Chuang, Jeff        | The Jackson Laboratory                                            | ec2-54-175-44-59.compute-1.amazonaws.com          | [Terminal](http://ec2-54-175-44-59.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-175-44-59.compute-1.amazonaws.com:8787)                   |
@@ -46,4 +47,5 @@ To logon to the instances, please use the below credentials.
 | Williams, Terri     | Trinity College                                                   | ec2-54-173-156-66.compute-1.amazonaws.com         | [Terminal](http://ec2-54-173-156-66.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-173-156-66.compute-1.amazonaws.com:8787)                 |
 | Zhou, Hong          | University of Saint Joseph                                        | ec2-52-90-109-86.compute-1.amazonaws.com          | [Terminal](http://ec2-52-90-109-86.compute-1.amazonaws.com:57575), [RStudio](http://ec2-52-90-109-86.compute-1.amazonaws.com:8787)                   |
 | Zito, Christina     | University of New Haven                                           | ec2-54-164-4-126.compute-1.amazonaws.com          | [Terminal](http://ec2-54-164-4-126.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-164-4-126.compute-1.amazonaws.com:8787)                   |
-|                     |                                                                   |                                                   |                                                                                                                                                      |
+|                     |                                                                   | ec2-54-165-75-64.compute-1.amazonaws.com          | [Terminal](http://ec2-54-165-75-64.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-165-75-64.compute-1.amazonaws.com:8787)                   |
+|                     |                                                                   | ec2-52-91-226-86.compute-1.amazonaws.com          | [Terminal](http://ec2-52-91-226-86.compute-1.amazonaws.com:57575), [RStudio](http://ec2-52-91-226-86.compute-1.amazonaws.com:8787)                   |
