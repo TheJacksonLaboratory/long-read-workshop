@@ -17,7 +17,7 @@ baseurl: "/long-read-workshop"
 title: The Jackson Laboratory
 
 # Short description of your site
-description: The program is funded by the NIH Big Data to Knowledge (BD2K) Initiative. 
+description: Long-read sequencing is rapidly becoming the standard in genomics, for assembling genomes, identifying structural variants, sequencing through repetitive regions, and phasing critical variants. Through this 3-day workshop, participants, including graduate students, post-doctoral fellows, and faculty, will learn about the technology and molecular biology driving each sequencing platform, including those from Pacific Biosciences, 10X Genomics, and Oxford Nanopore. Expert users, developers and representatives from long-read sequencing companies will share information about their applications in basic and translational genomic science, and will explore the commonalities and differences in long-read sequencing technologies. 
 
 # --- Navigation bar options --- #
 
