@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Getting started
-subtitle: JAX Big Genomic Data Training for Professors 
+subtitle: Long-Read Sequencing Workshop
 bigimg: /img/FullSizeRender.jpeg
 ---
 
-**JAX Big Genomic Data Training for Professors  - May 23-27** 
-
-Course Announcement Page --  [Course Announcement Page](https://www.jax.org/news-and-insights/2016/january/jax-offers-big-genomic-training-for-professors-course).
+**JAX Long-Read Sequencing Workshop  - APR 23 - 25** 
 
 <br/>
 
