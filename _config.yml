@@ -28,10 +28,11 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Pacific Biosciences: "getstarted"
-  10X Genomics: "user-instances"
-  Oxford Nanopore: "http://ec2-52-7-85-172.compute-1.amazonaws.com/"
-  Bionano Access: "http://ec2-52-73-205-115.compute-1.amazonaws.com:8080/gp/"
+  Workshops:
+   - Pacific Biosciences: "getstarted"
+   - 10X Genomics: "user-instances"
+   - Oxford Nanopore: "http://ec2-52-7-85-172.compute-1.amazonaws.com/"
+   - Bionano Access: "http://ec2-52-73-205-115.compute-1.amazonaws.com:8080/gp/"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
