@@ -24,7 +24,8 @@ testuser4  |  52.90.195.255   |  <a href='http://52.90.195.255:8888/terminals/1'
 testuser5  |  54.197.18.212   |  <a href='http://54.197.18.212:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://54.197.18.212:8787' target='_blank'>rstudio</a>   |  <a href='http://54.197.18.212' target='_blank'>download files</a>
 
 ***
-
+***
+***
 
 #### Other ways to SSH into the instances
 
