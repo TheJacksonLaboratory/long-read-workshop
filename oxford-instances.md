@@ -15,4 +15,4 @@ To logon to the instances, please use the below credentials.
 
 ### User Instances
 
-![Instances](users/oxford/final.md)
+[users/oxford/final.md]
