@@ -15,12 +15,10 @@ To logon to the instances, please use the below credentials.
 
 ### User Instances
 
-| Participant         | Institution                                                       | IP address                                        | Services                                                                                                                                             |
-|---------------------|-------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chuang, Jeff        | The Jackson Laboratory                                            | ec2-54-175-44-59.compute-1.amazonaws.com          | [Terminal](http://ec2-54-175-44-59.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-175-44-59.compute-1.amazonaws.com:8787)                   |
-| Graber, Joel        | The Jackson Laboratory                                            | ec2-54-172-49-173.compute-1.amazonaws.com         | [Terminal](http://ec2-54-172-49-173.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-172-49-173.compute-1.amazonaws.com:8787)                 |
-| Ahlander, Joseph    | Northeastern State University                                     | ec2-54-67-77-21.us-west-1.compute.amazonaws.com   | [Terminal](http://ec2-54-67-77-21.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-67-77-21.us-west-1.compute.amazonaws.com:8787)     |
-| Arciero, Michael    | University of New England                                         | ec2-52-53-224-152.us-west-1.compute.amazonaws.com | [Terminal](http://ec2-52-53-224-152.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-52-53-224-152.us-west-1.compute.amazonaws.com:8787) |
-| Castillo, Maria     | New Mexico State University                                       | ec2-54-67-115-133.us-west-1.compute.amazonaws.com | [Terminal](http://ec2-54-67-115-133.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-67-115-133.us-west-1.compute.amazonaws.com:8787) |
-| Corey-Rivas, Sarah  | New Mexico Highlands University                                   | ec2-54-67-101-153.us-west-1.compute.amazonaws.com | [Terminal](http://ec2-54-67-101-153.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-67-101-153.us-west-1.compute.amazonaws.com:8787) |
-| Das, Asis           | UCONN Health                                                      | ec2-54-153-40-94.us-west-1.compute.amazonaws.com  | [Terminal](http://ec2-54-153-40-94.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-153-40-94.us-west-1.compute.amazonaws.com:8787)   |
+| usrname   | IP             | Terminal            |
+|-----------|----------------|-------------------------------------------------------|
+| testuser1 | 18.233.155.236 | [jupyter](http://18.233.155.236:8888){:target=_blank} |
+| testuser2 | 54.236.82.65   | [jupyter](http://54.236.82.65:8888){:target=_blank}   |
+| testuser3 | 52.87.214.218  | [jupyter](http://52.87.214.218:8888){:target=_blank}  |
+| testuser4 | 52.90.195.255  | [jupyter](http://52.90.195.255:8888){:target=_blank}  |
+| testuser5 | 54.197.18.212  | [jupyter](http://54.197.18.212:8888){:target=_blank}  |
