@@ -15,6 +15,7 @@ To logon to the instances, please use the below credentials.
 
 ### User Instances
 
+
 | Username  | IP             | Terminal                                                                      | RStudio                                                          | Download Files                                                     |
 |-----------|----------------|-------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
 | testuser1 | 18.233.155.236 | <a href='http://18.233.155.236:8888/terminals/1' target='_blank'>terminal</a> | <a href='http://18.233.155.236:8787' target='_blank'>rstudio</a> | <a href='http://18.233.155.236' target='_blank'>download files</a> |
