@@ -15,8 +15,6 @@ To logon to the instances, please use the below credentials.
 
 ### User Instances
 
-*please click the link below* 
-
 Username   |  IP          |  Terminal                                                                   |  Loupe                                                       |  RStudio                                                       |  Download Files
 -----------|--------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------
 testuser1  |  10.1.1.1.1  |  <a href='http://10.1.1.1.1:8888/terminals/1' target='_blank'>terminal</a>  |  <a href='http://10.1.1.1.1:3000' target='_blank'>loupe</a>  |  <a href='http://10.1.1.1.1:8787' target='_blank'>rstudio</a>  |  <a href='http://10.1.1.1.1' target='_blank'>download files</a>
