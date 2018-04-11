@@ -10,8 +10,8 @@ A remote computer (instance) on Amazon Web Services has been set up for use in t
 **User Credentials**
 To logon to the instances, please use the below credentials. 
 
-- **Username**: ubuntu
-- **Password**: jgm2018
+- **Username**: 
+- **Password**: 
 
 ### User Instances
 
