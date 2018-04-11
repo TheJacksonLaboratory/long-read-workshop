@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oxford Nanopore Workshop
+title: 10x Genomics Workshop
 ---
 
 ### Instance Information 
@@ -14,6 +14,8 @@ To logon to the instances, please use the below credentials.
 - **Password**: 
 
 ### User Instances
+
+    *please click the link below* 
 
 Username   |  IP          |  Terminal                                                                   |  Loupe                                                       |  RStudio                                                       |  Download Files
 -----------|--------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------
