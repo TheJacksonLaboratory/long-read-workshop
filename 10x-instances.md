@@ -15,7 +15,7 @@ To logon to the instances, please use the below credentials.
 
 ### User Instances
 
-    *please click the link below* 
+*please click the link below* 
 
 Username   |  IP          |  Terminal                                                                   |  Loupe                                                       |  RStudio                                                       |  Download Files
 -----------|--------------|-----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------
