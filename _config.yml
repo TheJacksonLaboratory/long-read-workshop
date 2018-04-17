@@ -32,7 +32,7 @@ navbar-links:
    - Pacific Biosciences: "pacbio-instances"
    - 10X Genomics: "10x-instances.html"
    - Oxford Nanopore: "oxford-instances"
-   - Bionano Access: "http://ec2-52-73-205-115.compute-1.amazonaws.com:8080/gp/"
+#   - Bionano Access: "http://ec2-52-73-205-115.compute-1.amazonaws.com:8080/gp/"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
