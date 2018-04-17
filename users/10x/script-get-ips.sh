@@ -1,6 +1,6 @@
 #!/bin/bash
 
-aws ec2 describe-instances --query 'Reservations[?Instances[?Tags[?Key==`gt-oxford`]]].Instances[].InstanceId' | grep i- \
+aws ec2 describe-instances --query 'Reservations[?Instances[?Tags[?Key==`gt-102x`]]].Instances[].InstanceId' | grep i- \
  | awk '{print $1}' \
  | sed 's/\"//g' \
  | sed 's/,//' \

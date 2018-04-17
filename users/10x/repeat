@@ -1,0 +1,7 @@
+#!/bin/bash
+
+SECONDS=0
+while   true; do      
+    $@
+    sleep "$((10-(SECONDS%10)))"
+done
