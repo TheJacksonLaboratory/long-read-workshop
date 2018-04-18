@@ -18,11 +18,12 @@ To logon to the instances, please use the below credentials.
 
 Username   |  IP              |  Terminal                                                                       |  RStudio                                                           |  Download Files
 -----------|------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------
-testuser1  |  18.233.155.236  |  <a href='http://18.233.155.236:8888/terminals/1' target='_blank'>terminal</a>  |  <a href='http://18.233.155.236:8787' target='_blank'>rstudio</a>  |  <a href='http://18.233.155.236' target='_blank'>download files</a>
-testuser2  |  54.236.82.65    |  <a href='http://54.236.82.65:8888/terminals/1' target='_blank'>terminal</a>    |  <a href='http://54.236.82.65:8787' target='_blank'>rstudio</a>    |  <a href='http://54.236.82.65' target='_blank'>download files</a>
-testuser3  |  52.87.214.218   |  <a href='http://52.87.214.218:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://52.87.214.218:8787' target='_blank'>rstudio</a>   |  <a href='http://52.87.214.218' target='_blank'>download files</a>
-testuser4  |  52.90.195.255   |  <a href='http://52.90.195.255:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://52.90.195.255:8787' target='_blank'>rstudio</a>   |  <a href='http://52.90.195.255' target='_blank'>download files</a>
-testuser5  |  54.197.18.212   |  <a href='http://54.197.18.212:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://54.197.18.212:8787' target='_blank'>rstudio</a>   |  <a href='http://54.197.18.212' target='_blank'>download files</a>
+testuser1  |  35.168.59.72    |  <a href='http://35.168.59.72:8888/terminals/1' target='_blank'>terminal</a>    |  <a href='http://35.168.59.72:8787' target='_blank'>rstudio</a>    |  <a href='http://35.168.59.72' target='_blank'>download files</a>
+testuser2  |  35.153.144.54   |  <a href='http://35.153.144.54:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://35.153.144.54:8787' target='_blank'>rstudio</a>   |  <a href='http://35.153.144.54' target='_blank'>download files</a>
+testuser3  |  18.232.59.255   |  <a href='http://18.232.59.255:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://18.232.59.255:8787' target='_blank'>rstudio</a>   |  <a href='http://18.232.59.255' target='_blank'>download files</a>
+testuser4  |  34.204.180.212  |  <a href='http://34.204.180.212:8888/terminals/1' target='_blank'>terminal</a>  |  <a href='http://34.204.180.212:8787' target='_blank'>rstudio</a>  |  <a href='http://34.204.180.212' target='_blank'>download files</a>
+testuser5  |  34.204.167.103  |  <a href='http://34.204.167.103:8888/terminals/1' target='_blank'>terminal</a>  |  <a href='http://34.204.167.103:8787' target='_blank'>rstudio</a>  |  <a href='http://34.204.167.103' target='_blank'>download files</a>
+testuser6  |  34.204.203.146  |  <a href='http://34.204.203.146:8888/terminals/1' target='_blank'>terminal</a>  |  <a href='http://34.204.203.146:8787' target='_blank'>rstudio</a>  |  <a href='http://34.204.203.146' target='_blank'>download files</a>
 
 
 ***
