@@ -18,4 +18,4 @@ create_instances() {
 }
 
 create_instances $ami_id $count $instance_type $key_name $security_group
-# ami-2a37ee55 4 m5.xlarge gt-workshop launch-wizard-1
+# ami-2a37ee55 4 m5.large gt-workshop launch-wizard-1
