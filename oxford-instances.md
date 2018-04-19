@@ -5,6 +5,7 @@ title: Oxford Nanopore Workshop
 
 ### User Instances
 <center>
+
 Username    |  Hostname
 ------------|------------------------
 trainuser1  |  train05.us.nanopore.me
