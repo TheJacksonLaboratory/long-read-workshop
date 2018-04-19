@@ -14,8 +14,8 @@ trainuser4  |  train08.us.nanopore.me
 trainuser5  |  train09.us.nanopore.me
 
 ```
-[Download mac_key_jackson.txt]().
-[Download pc_key_jackson.ppk]().
+<a href="" Download mac_key_jackson.txt>
+<a href="" Download pc_key_jackson.ppk>
 ```
 
 ****
