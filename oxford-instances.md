@@ -15,9 +15,9 @@ trainuser3  |  train07.us.nanopore.me
 trainuser4  |  train08.us.nanopore.me
 trainuser5  |  train09.us.nanopore.me
 
-<a href="" download>Download mac_key_jackson.txt</a>
+<a href="https://s3.amazonaws.com/gt-workshop/mac_key_jackson.txt" download>Download mac_key_jackson.txt</a>
 <br />
-<a href="" download>Download pc_key_jackson.ppk</a>
+<a href="https://s3.amazonaws.com/gt-workshop/pc_key_jackson.ppk" download>Download pc_key_jackson.ppk</a>
 
 ****
 
