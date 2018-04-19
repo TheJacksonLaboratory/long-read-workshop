@@ -14,11 +14,12 @@ trainuser3  |  train07.us.nanopore.me
 trainuser4  |  train08.us.nanopore.me
 trainuser5  |  train09.us.nanopore.me
 
+</center>
+
 > [Download mac_key_jackson.txt]()
 
 > [Download pc_key_jackson.ppk]()
 
-</center>
 
 ****
 
