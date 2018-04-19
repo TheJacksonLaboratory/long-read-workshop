@@ -6,44 +6,18 @@ title: Oxford Nanopore Workshop
 
 
 ### User Instances
-<p align="center">
 
-<table align="center">
-<thead>
-<tr class="header">
-<th>Username</th>
-<th>Hostname</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>trainuser1</td>
-<td>train05.us.nanopore.me</td>
-</tr>
-<tr class="even">
-<td>trainuser2</td>
-<td>train06.us.nanopore.me</td>
-</tr>
-<tr class="odd">
-<td>trainuser3</td>
-<td>train07.us.nanopore.me</td>
-</tr>
-<tr class="even">
-<td>trainuser4</td>
-<td>train08.us.nanopore.me</td>
-</tr>
-<tr class="odd">
-<td>trainuser5</td>
-<td>train09.us.nanopore.me</td>
-</tr>
-</tbody>
-</table>
+Username    |  Hostname
+------------|------------------------
+trainuser1  |  train05.us.nanopore.me
+trainuser2  |  train06.us.nanopore.me
+trainuser3  |  train07.us.nanopore.me
+trainuser4  |  train08.us.nanopore.me
+trainuser5  |  train09.us.nanopore.me
 
-
-</p>
-
+<br />
 <a href="" download>Download mac_key_jackson.txt</a>
-<br>
+<br />
 <a href="" download>Download pc_key_jackson.ppk</a>
 
 ****
