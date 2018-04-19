@@ -14,8 +14,8 @@ trainuser3  |  train07.us.nanopore.me
 trainuser4  |  train08.us.nanopore.me
 trainuser5  |  train09.us.nanopore.me
 
-> [Download mac_key_jackson.txt](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
-> [Download pc_key_jackson.ppk](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+> [Download mac_key_jackson.txt]()
+> [Download pc_key_jackson.ppk]()
 
 </center>
 
