@@ -3,10 +3,10 @@ layout: page
 title: Oxford Nanopore Workshop
 ---
 
-### User Instances
 
 <center>
 
+### User Instances
 
 Username    |  Hostname
 ------------|------------------------
