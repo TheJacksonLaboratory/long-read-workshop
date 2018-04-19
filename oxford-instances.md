@@ -8,7 +8,7 @@ title: Oxford Nanopore Workshop
 ### User Instances
 <p align="center">
 
-<table>
+<table align="center">
 <thead>
 <tr class="header">
 <th>Username</th>
