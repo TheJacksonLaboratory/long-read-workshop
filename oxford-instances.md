@@ -20,8 +20,9 @@ trainuser5  |  train09.us.nanopore.me
 </center>
 
 
-<a href="" download>Download mac_key_jackson.txt</a>
-<a href="" download>Download pc_key_jackson.ppk</a>
+<a href="" download="filename">Download mac_key_jackson.txt</a>
+<br>
+<a href="" download="filename">Download pc_key_jackson.ppk</a>
 
 ****
 
