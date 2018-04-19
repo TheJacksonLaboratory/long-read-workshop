@@ -5,6 +5,9 @@ title: Oxford Nanopore Workshop
 
 ### User Instances
 
+<center>
+
+
 Username    |  Hostname
 ------------|------------------------
 trainuser1  |  train05.us.nanopore.me
@@ -13,8 +16,12 @@ trainuser3  |  train07.us.nanopore.me
 trainuser4  |  train08.us.nanopore.me
 trainuser5  |  train09.us.nanopore.me
 
-<a href="" Download mac_key_jackson.txt>
-<a href="" Download pc_key_jackson.ppk>
+
+</center>
+
+
+<a href="" download>Download mac_key_jackson.txt</a>
+<a href="" download>Download pc_key_jackson.ppk</a>
 
 ****
 
