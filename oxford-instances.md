@@ -19,7 +19,7 @@ trainuser5  |  train09.us.nanopore.me
 <br />
 <a href="https://s3.amazonaws.com/gt-workshop/pc_key_jackson.ppk" download>Download pc_key_jackson.ppk</a>
 
-> if the link opens in a new tab, right-click on the link and click "save as"
+if the link opens in a new tab, right-click on the link and click "save as"
 
 ****
 
