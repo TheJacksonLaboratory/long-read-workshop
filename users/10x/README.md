@@ -1,3 +1,6 @@
+# production
+sh create-image.sh i-08dc509d10dee6933 "lrs-10x-v1-prod-release" "10x genomics instance image for testing production release"
+
 sh create-image.sh i-08dc509d10dee6933 "lrs-10x-v1beta-practice" "10x genomics instance image for testing"
 python get-image-status.py ami-2a37ee55
 sh create-instances.sh ami-2a37ee55 4 m5.xlarge gt-workshop launch-wizard-1
