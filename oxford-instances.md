@@ -23,4 +23,11 @@ if the link opens in a new tab, right-click on the link and click "save as"
 
 ****
 
+### Pre-workshop Setup
+
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/TheJacksonLaboratory/long-read-workshop/raw/gh-pages/users/oxford/oxford-instructions-preworkshop-setup.rtf?raw=true&embedded=true" width='100%' height='700px' frameborder='0'></iframe>
+
+****
+
+### Workshop Data Analysis
 <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/TheJacksonLaboratory/long-read-workshop/blob/gh-pages/users/oxford/oxford-workshop.docx?raw=true&embedded=true" width='100%' height='700px' frameborder='0'></iframe>
