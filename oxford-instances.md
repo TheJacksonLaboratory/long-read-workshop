@@ -18,6 +18,8 @@ trainuser5  |  train09.us.nanopore.me
 <a href="https://s3.amazonaws.com/gt-workshop/mac_key_jackson.txt" download="mac_key_jackson.txt">Download mac_key_jackson.txt</a>
 <br />
 <a href="https://s3.amazonaws.com/gt-workshop/pc_key_jackson.ppk" download>Download pc_key_jackson.ppk</a>
+<br />
+<a href="https://dl.bitvise.com/BvSshClient-Inst.exe" download>Download Bitvise SSH Client</a>
 
 if the link opens in a new tab, right-click on the link and click "save as"
 
