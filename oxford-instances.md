@@ -6,6 +6,15 @@ title: Oxford Nanopore Workshop
 
 ### User Instances
 
+<a href="https://s3.amazonaws.com/gt-workshop/mac_key_jackson.txt" download="mac_key_jackson.txt">Download mac_key_jackson.txt</a>
+<br />
+<a href="https://s3.amazonaws.com/gt-workshop/pc_key_jackson.ppk" download>Download pc_key_jackson.ppk</a>
+<br />
+<a href="https://dl.bitvise.com/BvSshClient-Inst.exe" download>Download Bitvise SSH Client</a> (Windows users)
+
+If the link opens in a new tab, right-click on the link and click "save as".
+
+
 Username              |  Hostname
 ----------------------|------------------------
 Aamir Zuberi          |  train04.us.nanopore.me
@@ -89,13 +98,6 @@ Zhongyuan Tian        |  train81.us.nanopore.me
 Zi-Ming Zhao          |  train82.us.nanopore.me
 user 1                |  train83.us.nanopore.me
 
-<a href="https://s3.amazonaws.com/gt-workshop/mac_key_jackson.txt" download="mac_key_jackson.txt">Download mac_key_jackson.txt</a>
-<br />
-<a href="https://s3.amazonaws.com/gt-workshop/pc_key_jackson.ppk" download>Download pc_key_jackson.ppk</a>
-<br />
-<a href="https://dl.bitvise.com/BvSshClient-Inst.exe" download>Download Bitvise SSH Client</a> (Windows users)
-
-If the link opens in a new tab, right-click on the link and click "save as".
 
 ****
 
