@@ -128,11 +128,7 @@ user 9                |  35.173.35.153   |  <a href='http://35.173.35.153:8888/t
 user 10               |  34.236.170.98   |  <a href='http://34.236.170.98:8888/terminals/1' target='_blank'>terminal</a>   |  <a href='http://34.236.170.98:8787' target='_blank'>rstudio</a>   |  <a href='http://34.236.170.98' target='_blank'>download files</a>
 
 
-***
-***
-***
-
-#### Other ways to SSH into the instances
+** Other ways to SSH into the instances **
 
 1. Open the terminal and type the following command substituting 'ip_address' for the IP address that was assigned to you above.
 
@@ -141,16 +137,12 @@ user 10               |  34.236.170.98   |  <a href='http://34.236.170.98:8888/t
         Username: ubuntu
         Password: jgm2018
 
+****
+
+### Workshop Data Analysis
+
+*Please scroll down the below document. If the document does not load, you can [download it here](https://s3.amazonaws.com/gt-workshop/jackson-pacbio-workshop.docx).*
+
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/TheJacksonLaboratory/long-read-workshop/raw/gh-pages/users/pacbio/jackson-pacbio-workshop.docx?raw=true&embedded=true" width='100%' height='700px' frameborder='0'></iframe>
 
 
-2. You will receive a security message that looks something like the message below. Type 'yes' to proceed.
-
-        The authenticity of host 'ec2-52-91-14-206.compute-1.amazonaws.com (52.91.14.206)' can't be established. ECDSA key fingerprint is SHA256:S2mMV8mCThjJHm0sUmK2iOE5DBqs8HiJr6pL3x/XxkI. Are you sure you want to continue connecting (yes/no)?
-
-3. In the final step, you will be asked to provide a login and password.
-
-4. You should now be connected!
-
-#### **Windows users**
-
-> *Prerequisites*: You must have an SSH client. There are several free options and we will use PuTTY [[Download Putty.exe](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)]
