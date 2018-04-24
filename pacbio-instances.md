@@ -7,13 +7,6 @@ title: PacBio Sequencing Workshop
 
 A remote computer (instance) on Amazon Web Services has been set up for use in training for each user. All instances are identical with the same working environment. You should be able to connect from PC, Mac or Linux. Please see below for the instructions.
 
-**User Credentials**
-
-    To logon to the instances, please use the below credentials.
-    
-    - **Username**: ubuntu
-    - **Password**: jgm2018
-
 ### User Instances
 
 Username              |  IP              |  Terminal                                                                       |  RStudio                                                           |  Download Files
@@ -144,6 +137,11 @@ user 10               |  34.236.170.98   |  <a href='http://34.236.170.98:8888/t
 1. Open the terminal and type the following command substituting 'ip_address' for the IP address that was assigned to you above.
 
         $ ssh ubuntu@ip_address
+        
+        Username: ubuntu
+        Password: jgm2018
+
+
 
 2. You will receive a security message that looks something like the message below. Type 'yes' to proceed.
 
