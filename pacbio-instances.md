@@ -3,15 +3,16 @@ layout: page
 title: PacBio Sequencing Workshop
 ---
 
-### Instance Information 
+### Instance Information
 
 A remote computer (instance) on Amazon Web Services has been set up for use in training for each user. All instances are identical with the same working environment. You should be able to connect from PC, Mac or Linux. Please see below for the instructions.
 
 **User Credentials**
-To logon to the instances, please use the below credentials. 
 
-- **Username**: ubuntu 
-- **Password**: jgm2018
+    To logon to the instances, please use the below credentials.
+    
+    - **Username**: ubuntu
+    - **Password**: jgm2018
 
 ### User Instances
 
@@ -140,7 +141,7 @@ user 10               |  34.236.170.98   |  <a href='http://34.236.170.98:8888/t
 
 #### Other ways to SSH into the instances
 
-1. Open the terminal and type the following command substituting 'ip_address' for the IP address that was assigned to you above. 
+1. Open the terminal and type the following command substituting 'ip_address' for the IP address that was assigned to you above.
 
         $ ssh ubuntu@ip_address
 
@@ -148,7 +149,7 @@ user 10               |  34.236.170.98   |  <a href='http://34.236.170.98:8888/t
 
         The authenticity of host 'ec2-52-91-14-206.compute-1.amazonaws.com (52.91.14.206)' can't be established. ECDSA key fingerprint is SHA256:S2mMV8mCThjJHm0sUmK2iOE5DBqs8HiJr6pL3x/XxkI. Are you sure you want to continue connecting (yes/no)?
 
-3. In the final step, you will be asked to provide a login and password. 
+3. In the final step, you will be asked to provide a login and password.
 
 4. You should now be connected!
 
